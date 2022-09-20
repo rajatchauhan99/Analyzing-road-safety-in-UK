@@ -1,0 +1,22 @@
+﻿LABEL,TOTAL_ACCIDENTS,ACCIDENT_SEVERITY
+Car,88071,2.884729
+Goods over 3.5t. and under 7.5t,788,2.833756
+Pedal cycle,10347,2.840244
+Motorcycle 125cc and under,5868,2.825494
+Bus or coach (17 or more pass seats),3309,2.883651
+Minibus (8 - 16 passenger seats),225,2.835556
+Motorcycle over 500cc,3397,2.650574
+Van / Goods 3.5 tonnes mgw or under,6904,2.870800
+Other vehicle,590,2.764407
+Motorcycle over 125cc and up to 500cc,1145,2.758079
+Tram,16,2.875000
+Agricultural vehicle,153,2.699346
+Data missing or out of range,4,2.750000
+Mobility scooter,69,2.710145
+Goods 7.5 tonnes mgw and over,2301,2.765754
+Motorcycle 50cc and under,1207,2.842585
+Goods vehicle - unknown weight,100,2.870000
+Ridden horse,31,2.838710
+Electric motorcycle,1,2.000000
+Taxi/Private hire car,3583,2.899526
+Motorcycle - unknown cc,74,2.743243

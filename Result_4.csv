@@ -1,0 +1,7 @@
+﻿LABEL,TOTAL_ACCIDENTS,ACCIDENT_SEVERITY
+Motorcycle 125cc and under,5868,2.825494
+Motorcycle over 500cc,3397,2.650574
+Motorcycle over 125cc and up to 500cc,1145,2.758079
+Motorcycle 50cc and under,1207,2.842585
+Motorcycle - unknown cc,74,2.743243
+Electric motorcycle,1,2.000000

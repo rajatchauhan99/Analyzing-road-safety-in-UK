@@ -1,0 +1,7 @@
+﻿LABEL,MEDIAN_ACCIDENT_SEVERITY
+Motorcycle 125cc and under,3.000
+Motorcycle over 500cc,3.000
+Motorcycle over 125cc and up to 500cc,3.000
+Motorcycle 50cc and under,3.000
+Motorcycle - unknown cc,3.000
+Electric motorcycle,2.000
